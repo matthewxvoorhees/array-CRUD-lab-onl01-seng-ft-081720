@@ -2,7 +2,7 @@ def create_an_empty_array
   []
 end
 
-def create_an_array["Rat", "Hat", "Flat", "Matt"]
+def create_an_array["Rat", "Hat", "Flat", "Matt"]learn -fa
   
 end
 
